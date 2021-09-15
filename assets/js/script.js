@@ -80,8 +80,6 @@ var auditTask= function(taskEl) {
     $(taskEl).addClass("list-group-item-warnings");
   }
 
-
-
 };
 
 $(".list-group").on("click", "span", function() {
